@@ -12,7 +12,7 @@ I am the Founder of **Code Studio** and the Principal Lead at **Code Studio AI R
 ## 🚀 Professional Leadership & Current Ventures
 
 ### 💻 Code Studio
-Founded and operational for over 3+ years, managing a dynamic, high-performing team of **18+ software engineers, designers, and systems architects**. We architect high-barrier applications, including enterprise e-commerce infrastructures, secure medical documentation frameworks, and robust consumer automation grids.
+Founded and operational for over 5+ years, managing a dynamic, high-performing team of **18+ software engineers, designers, and systems architects**. We architect high-barrier applications, including enterprise e-commerce infrastructures, secure medical documentation frameworks, and robust consumer automation grids.
 
 ### 🔬 Code Studio AI Research Lab
 An active, open-source research initiative dedicated to solving complex, real-world social and scientific crises through deep learning. We bridge abstract theoretical computational intelligence with cross-disciplinary hardware/software systems co-design.
