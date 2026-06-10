@@ -51,7 +51,7 @@ Pioneering alternative input interfaces and custom speech architectures to redef
 
 ## 📬 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(আপনার প্রোফাইল লিংক দিন)*
+* **LinkedIn:** [linkedin.com/in/soykot-hosen]([https://linkedin.com](https://www.linkedin.com/in/soykot-hosen/)) 
 * **Hugging Face:** [huggingface.co/CodeStudioAI](https://huggingface.co/CodeStudioAI)
 * **Research Lab:** [Code Studio AI Research Lab](https://github.com/Code-Studio-AI-Research-Lab)
 * **Website:** [code-studio4.com](https://code-studio4.com/)
