@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Software Engineer, Entrepreneur & AI Researcher
 
-I am the Founder of **Code Studio** and the Principal Lead at **Code Studio AI Research Lab**. With over 3+ years of experience leading cross-functional engineering teams, building scalable mobile/web platforms, and deploying production AI systems, I am now directing my core focus toward academic research and open-source innovations in Deep Learning, HCI, and AI4Science.
+I am the Founder of **Code Studio** and the Principal Lead at **Code Studio AI Research Lab**. With over 5+ years of experience leading cross-functional engineering teams, building scalable mobile/web platforms, and deploying production AI systems, I am now directing my core focus toward academic research and open-source innovations in Deep Learning, HCI, and AI4Science.
 
 * 📍 Based in Bangladesh
 * 🔬 Research Focus: Low-Resource NLP, Machine Learning for Science, Trustworthy AI, & Bio-Computing
